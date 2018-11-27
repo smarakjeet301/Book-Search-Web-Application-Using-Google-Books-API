@@ -1,0 +1,36 @@
+button{
+	position: relative;
+	font-weight: bold;
+
+}
+
+.aligning{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+}
+
+#imagebutton{
+	margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+    display: block;
+	margin-bottom: 15px;
+	text-align: center;
+	font-weight: bold;
+}
+
+result{
+	margin-top: 50px;
+	
+
+}
+
+#search_book{
+	width: 400px;
+	height: 180px;
+	margin: auto;
+	margin-top: 20px;
+	padding: 25px;
+}
